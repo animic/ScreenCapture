@@ -2,3 +2,5 @@
 /ScreenCapture/*.aps
 /.vs
 /Debug
+/Release
+/ScreenCapture/Release
